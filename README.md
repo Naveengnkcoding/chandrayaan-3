@@ -1,30 +1,10 @@
 # Chandrayaan3  Vikram and Rover
 
 We are Happy in celebration of success of chandrayaan - 3
-
 “This is our Chandrayaan-3 scale model — designed and built by our team.”
-
 “Onboard electronics include an Arduino, motor drivers, and sensors , Light.”
-
 “we can control it through phone/Rc remote controll ”
-
 “Key takeaways: wireless control, reliable Rover, and easy-to-operate design for Controll.”
-
-## Overview
-
-Developed a working Chandrayaan-3 scale model combining mechanical structure, onboard electronics, and Wi-Fi remote control for live demonstrations. The project demonstrates systems integration, wireless, and real-time remote actuation for educational outreach and college exhibitions.
-
-Step-by-step introduction 
-Concept & Objectives
-
-Define goals: realistic appearance, motorized actuators for panels/antenna, telemetry, and remote control over Wi-Fi.
-
-Mechanical model & assembly
-Built the physical model (foam/3D-printed parts) and fitted mounting points for electronics and servos. Check center of gravity and structural rigidity.
-
-Electronics layout & power
-Selected MCU (ESP32/Arduino + Wi-Fi), motor drivers, servos, battery management and power distribution. Created a compact PCB or breadboard prototype for testing.
-
 
 ### Projects
 
@@ -102,6 +82,22 @@ Selected MCU (ESP32/Arduino + Wi-Fi), motor drivers, servos, battery management 
     
   </tr>
 </table>
+
+## Overview
+
+Developed a working Chandrayaan-3 scale model combining mechanical structure, onboard electronics, and Wi-Fi remote control for live demonstrations. The project demonstrates systems integration, wireless, and real-time remote actuation for educational outreach and college exhibitions.
+
+Step-by-step introduction 
+Concept & Objectives
+
+Define goals: realistic appearance, motorized actuators for panels/antenna, telemetry, and remote control over Wi-Fi.
+
+Mechanical model & assembly
+Built the physical model (foam/3D-printed parts) and fitted mounting points for electronics and servos. Check center of gravity and structural rigidity.
+
+Electronics layout & power
+Selected MCU (ESP32/Arduino + Wi-Fi), motor drivers, servos, battery management and power distribution. Created a compact PCB or breadboard prototype for testing.
+
 
 ### Tech Systems
 
