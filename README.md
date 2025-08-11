@@ -31,7 +31,7 @@ Selected MCU (ESP32/Arduino + Wi-Fi), motor drivers, servos, battery management 
   <tr>
     <th>
       <p align="center">
-           <a href=""><img src="./img/img1" alt="Overview" width="60%" height="60%"></a>
+           <a href=""><img src="/img/img1" alt="Overview" width="60%" height="60%"></a>
            <br>Getting Started
            <br>
       </p>
