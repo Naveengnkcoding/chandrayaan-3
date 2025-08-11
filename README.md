@@ -31,13 +31,13 @@ Selected MCU (ESP32/Arduino + Wi-Fi), motor drivers, servos, battery management 
   <tr>
     <th>
       <p align="center">
-           <a href=""><img src="/img/img1" alt="Overview" width="60%" height="60%"></a>
+           <a href=""><img src="./img/img1.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>Getting Started
            <br>
       </p>
     </th>
         <th><p align="center">
-           <a href=""><img src="./img/img2" alt="Overview" width="60%" height="60%"></a>
+           <a href=""><img src="./img/img2.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>Electronics Boarding
            <br>
         </p>
@@ -47,25 +47,25 @@ Selected MCU (ESP32/Arduino + Wi-Fi), motor drivers, servos, battery management 
   <tr>
   </th>
         <th><p align="center">
-           <a href=""><img src="./img/img3" alt="Overview" width="60%" height="60%"></a>
+           <a href=""><img src="./img/img3.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>Rover
            <br>
         </p>
     </th>
     <th><p align="center">
-           <a href=""><img src="./img/img4" alt="Overview" width="60%" height="60%"></a>
+           <a href=""><img src="./img/img4.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>Mobile Control
            <br>
         </p>
     </th>
     <th><p align="center">
-           <a href=""><img src="./img/img5" alt="Overview" width="60%" height="60%"></a>
+           <a href=""><img src="./img/img5.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>Rc Control
            <br>
         </p>
     </th>
     <th><p align="center">
-           <a href=""><img src="./img/img6" alt="Overview" width="60%" height="60%"></a>
+           <a href=""><img src="./img/img10.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>RF Decoding
            <br>
         </p>
@@ -73,7 +73,7 @@ Selected MCU (ESP32/Arduino + Wi-Fi), motor drivers, servos, battery management 
   </tr>
   <tr>
     <th><p align="center">
-           <a href=""><img src="./img/img7" alt="Overview" width="60%" height="60%"></a>
+           <a href=""><img src="./img/img7.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>Amplification
            <br>
         </p>
