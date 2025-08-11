@@ -1,6 +1,7 @@
-# chandrayaan-3
+# Chandrayaan3  Vikram and Rover
 
 We are Happy in celebration of success of chandrayaan - 3
+
 “This is our Chandrayaan-3 scale model — designed and built by our team.”
 
 “Onboard electronics include an Arduino, motor drivers, and sensors , Light.”
@@ -29,6 +30,20 @@ Selected MCU (ESP32/Arduino + Wi-Fi), motor drivers, servos, battery management 
 
 <table style="width:100%">
   <tr>
+  <th>
+      <p align="center">
+           <a href=""><img src="./img/img6.jpg" alt="Overview" width="60%" height="60%"></a>
+           <br>Chandrayaan3
+           <br>
+      </p>
+    </th>
+    <th>
+      <p align="center">
+           <a href=""><img src="./img/img8.jpg" alt="Overview" width="60%" height="60%"></a>
+           <br>Vikram & Rover Working
+           <br>
+      </p>
+    </th>
     <th>
       <p align="center">
            <a href=""><img src="./img/img1.jpg" alt="Overview" width="60%" height="60%"></a>
@@ -73,15 +88,35 @@ Selected MCU (ESP32/Arduino + Wi-Fi), motor drivers, servos, battery management 
   </tr>
   <tr>
     <th><p align="center">
-           <a href=""><img src="./img/img7.jpg" alt="Overview" width="60%" height="60%"></a>
+           <a href=""><img src="./img/img11.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>Amplification
+           <br>
+        </p>
+    </th>
+    <th><p align="center">
+           <a href=""><img src="./img/img9.jpg" alt="Overview" width="60%" height="60%"></a>
+           <br>Final VIEW
            <br>
         </p>
     </th>
     
   </tr>
 </table>
-
+### Tech Systems
+    Center-Controller (Rover)
+         ESP32,
+         ARDUINO Mega2560
+         LM295D - Motor Controller
+         18650 li ion Battery
+    Control Board (Vikram)
+          Esp32 
+          LED
+          Servo
+    Communication
+  . 1.Over Wifi Control
+        Mobile : Using Our Custom App for Rover & Vikram 
+    2.Rc Joystick Control
+        FS-CT6B Remote controll : for controlling Rover
 ### Video
 - [**To Watch Video:**]() Demonstrating chandrayaan-3 Mini Model project.
 !
