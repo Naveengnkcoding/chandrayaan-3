@@ -102,22 +102,34 @@ Selected MCU (ESP32/Arduino + Wi-Fi), motor drivers, servos, battery management 
     
   </tr>
 </table>
+
 ### Tech Systems
+
     Center-Controller (Rover)
+
          ESP32,
          ARDUINO Mega2560
          LM295D - Motor Controller
          18650 li ion Battery
+
     Control Board (Vikram)
+
           Esp32 
           LED
           Servo
+
     Communication
+
   . 1.Over Wifi Control
+
         Mobile : Using Our Custom App for Rover & Vikram 
+
     2.Rc Joystick Control
+
         FS-CT6B Remote controll : for controlling Rover
+
 ### Video
+
 - [**To Watch Video:**]() Demonstrating chandrayaan-3 Mini Model project.
 !
 --- 
