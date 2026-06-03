@@ -127,5 +127,9 @@ Selected MCU (ESP32/Arduino + Wi-Fi), motor drivers, servos, battery management 
 ### Video
 
 - [**To Watch Video:**]() Demonstrating chandrayaan-3 Mini Model project.
+Contact Us : navgosoft@gmail.com
+https://www.linkedin.com/in/naveenaero/
++91 9600799939
+Coimbatore, Tamil Nadu
 !
 --- 
